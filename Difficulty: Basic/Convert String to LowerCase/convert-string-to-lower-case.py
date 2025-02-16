@@ -2,8 +2,7 @@
 
 class Solution:
     def toLower (self , s : str)-> str :
-        temp=s.lower()
-        return temp
+        return s.lower()
         
 
 #{ 
